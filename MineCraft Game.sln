@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineCraft Game", "MineCraft Game\MineCraft Game.csproj", "{1886AB3A-EB4D-499E-8F44-9568CD4946AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1886AB3A-EB4D-499E-8F44-9568CD4946AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1886AB3A-EB4D-499E-8F44-9568CD4946AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1886AB3A-EB4D-499E-8F44-9568CD4946AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1886AB3A-EB4D-499E-8F44-9568CD4946AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2728827-0488-4931-868C-C5C2D3FC5AC9}
+	EndGlobalSection
+EndGlobal

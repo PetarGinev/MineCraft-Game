@@ -1,0 +1,20 @@
+C:\All\Programs\MineCraft Game\MineCraft Game\bin\Debug\MineCraft Game.exe.config
+C:\All\Programs\MineCraft Game\MineCraft Game\bin\Debug\MineCraft Game.exe
+C:\All\Programs\MineCraft Game\MineCraft Game\bin\Debug\MineCraft Game.pdb
+C:\All\Programs\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.csprojAssemblyReference.cache
+C:\All\Programs\MineCraft Game\MineCraft Game\obj\Debug\MineCraft_Game.MineCraft.resources
+C:\All\Programs\MineCraft Game\MineCraft Game\obj\Debug\MineCraft_Game.Properties.Resources.resources
+C:\All\Programs\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.csproj.GenerateResource.cache
+C:\All\Programs\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.csproj.CoreCompileInputs.cache
+C:\All\Programs\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.exe
+C:\All\Programs\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.pdb
+C:\All\Programming\MineCraft Game\MineCraft Game\bin\Debug\MineCraft Game.exe.config
+C:\All\Programming\MineCraft Game\MineCraft Game\bin\Debug\MineCraft Game.exe
+C:\All\Programming\MineCraft Game\MineCraft Game\bin\Debug\MineCraft Game.pdb
+C:\All\Programming\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.csprojAssemblyReference.cache
+C:\All\Programming\MineCraft Game\MineCraft Game\obj\Debug\MineCraft_Game.MineCraft.resources
+C:\All\Programming\MineCraft Game\MineCraft Game\obj\Debug\MineCraft_Game.Properties.Resources.resources
+C:\All\Programming\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.csproj.GenerateResource.cache
+C:\All\Programming\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.csproj.CoreCompileInputs.cache
+C:\All\Programming\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.exe
+C:\All\Programming\MineCraft Game\MineCraft Game\obj\Debug\MineCraft Game.pdb
